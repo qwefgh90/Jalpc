@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: letgopicnic  # Be used at blog posts' author.
   first_name: Changwon  # Be used at index page about me section.
   last_name: Choe  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/profile.jpeg  # upload your avatar at directory and edit it.
   github_username: qwefgh90  # Leave blank if you don't have now
   linkedin_id: qwefgh90 # Leave blank if you don't have now
   facebook_username: qwefgh90@naver.com  # Leave blank if you don't have now
