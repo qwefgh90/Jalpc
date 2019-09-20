@@ -4,7 +4,7 @@ title: 리액티브 선언 (The Reactive Manifesto) 번역
 date: 2016-11-28 00:00:00 +09:00
 desc: ""
 keywords: "리액티브,리액티브 선언,Manifesto,Reactive"
-categories: [CS]
+categories: [Cs]
 tags: [Reactive]
 icon: icon-html
 ---

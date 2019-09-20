@@ -4,7 +4,7 @@ title:  윈도우 커버로스 (Kerberos Explained ) 번역
 date:   2016-08-15 00:00:00 +09:00
 desc: ""
 keywords: "Kerberos,Windows,Securiy,Authentication,커버로스"
-categories: [CS]
+categories: [Cs]
 tags: [Kerberos]
 icon: icon-html
 ---
