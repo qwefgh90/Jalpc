@@ -4,7 +4,7 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Language
-  href: /languages/
+  href: /language/
 
 - name: Framework
   href: /framework/
@@ -14,9 +14,6 @@
 
 - name: CS
   href: /cs/
-
-- name: Etc
-  href: /etc/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
