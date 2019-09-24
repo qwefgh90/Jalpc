@@ -27,25 +27,23 @@ PDIP는 파라미터로 받은 프로그램을 실행하면서 slave에 연결�
 
 
 <div style="padding-left:1em;">
-<p>
-[root@localhost \~]# pdip -- ssh localhost
-<b>recv "password:"</b>
-root@localhost's password:<b>send "testtest\n"</b>
-<b>recv "]# "</b>
-
-Last login: Tue Sep 24 09:43:11 2019 from localhost
-[root@localhost \~]# <b>send "ls\n"</b>
-<b>recv "]# "</b>
-ls
-#.bash_profile#                     pdip-2.4.7-1.x86_64.rpm
-#prod.properties#                   test.properties
-Dockerfile                          abcd.properties
-build.sh                            tutorial
-[root@localhost \~]# <b>send "exit\n"</b>
-Connection to localhost closed.
-exit
-logout
-</p>
+<div>[root@localhost \~]# pdip -- ssh localhost</div>
+<div><b>recv "password:"</b></div>
+<div>root@localhost's password:<b>send "testtest\n"</b></div>
+<div><b>recv "]# "</b></div>
+<div></div>
+<div>Last login: Tue Sep 24 09:43:11 2019 from localhost</div>
+<div>[root@localhost \~]# <b>send "ls\n"</b></div>
+<div><b>recv "]# "</b></div>
+<div>ls</div>
+<div>#.bash_profile#                     pdip-2.4.7-1.x86_64.rpm</div>
+<div>#prod.properties#                   test.properties</div>
+<div>Dockerfile                          abcd.properties</div>
+<div>build.sh                            tutorial</div>
+<div>[root@localhost \~]# <b>send "exit\n"</b></div>
+<div>Connection to localhost closed.</div>
+<div>exit</div>
+<div>logout</div>
 </div>
 
 위 프로그램을 설명하면 다음과 같습니다.
