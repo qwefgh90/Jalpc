@@ -22,3 +22,4 @@ icon: icon-html
 
 - https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html
 - https://www.oracle.com/technetwork/java/javase/documentation/index.html
+- https://www.oracle.com/technetwork/java/java-se-support-roadmap.html
